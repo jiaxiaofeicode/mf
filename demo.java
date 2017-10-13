@@ -6,5 +6,6 @@ class Hello
 	{
 System.out.println("ddsdddassda!");
 System.out.println("master!");
+System.out.println("lyb!");
 	}
 }
